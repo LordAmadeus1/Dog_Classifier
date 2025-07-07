@@ -16,9 +16,12 @@ Dog_Classifier/
 
 ├── dog_breed_model_3.pkl  # Exported model
 
+├── requirements.txt
+
 └── README.md
 
 ## Model
+
 - ResNet34
 - Trained with FastAI
 - Accuracy: 87% on validation set
