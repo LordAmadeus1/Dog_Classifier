@@ -10,9 +10,13 @@ Dog_Classifier/
 
 │   └── dog_recognizer.3.ipynb 
 
-├── images/            # Visualization results, sample predictions
+├── images/ dataset_split        # Visualization results, sample predictions
 
-│   └── dataset_split/ # Contains original training/validation/test images
+│   └── train/
+
+│   └── test/
+
+│   └── validation/
 
 ├── dog_breed_model_3.pkl  # Exported model
 
